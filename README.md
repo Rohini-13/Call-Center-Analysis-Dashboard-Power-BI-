@@ -6,18 +6,18 @@ This project analyzes call center performance data to track total number of call
 - 1 Excel file: Call Center Dataset
 
  ## 🔹 Key Features
--Interactive Power BI dashboards for real-time insights
--KPIs tracked:
--**Calls Answered %** (81%)
--**Agent Resolution Rate** (90%)
--**Average Satisfaction** (3.4/5)
--**CSAT %** (50%)
-**Average Answered Speed**
-**Average Talk Duration**
--Daily resolved calls
--Topic-wise breakdown of calls: Streaming, Payments, Technical Support, Admin Support, Contract related
--Agent-wise performance analysis (resolution rate, satisfaction score , CSAT%, average answered speed)
--Drill-down Call Details Page for individual-level insights
+- Interactive Power BI dashboards for real-time insights
+- KPIs tracked:
+- **Calls Answered %** (81%)
+- **Agent Resolution Rate** (90%)
+- **Average Satisfaction** (3.4/5)
+- **CSAT %** (50%)
+- **Average Answered Speed**
+- **Average Talk Duration**
+- Daily resolved calls
+- Topic-wise breakdown of calls: Streaming, Payments, Technical Support, Admin Support, Contract related
+- Agent-wise performance analysis (resolution rate, satisfaction score , CSAT%, average answered speed)
+- Drill-down Call Details Page for individual-level insights
 
 ## 🔹 Tools Used
 -Power BI – Data Visualization & DAX
