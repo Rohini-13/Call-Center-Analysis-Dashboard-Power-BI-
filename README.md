@@ -20,9 +20,9 @@ This project analyzes call center performance data to track total number of call
 - Drill-down Call Details Page for individual-level insights
 
 ## 🔹 Tools Used
-- Power BI – Data Visualization & DAX
-- Excel– Data Source
-- Data Cleaning & Transformation
+ -  Power BI – Data Visualization & DAX
+ -  Excel– Data Source
+ -  Data Cleaning & Transformation
 
 ## 🔹 Insights Generated
 - Out of 5000 total calls, 4054 were answered (81%), and from those, 3646 were resolved (90%)
