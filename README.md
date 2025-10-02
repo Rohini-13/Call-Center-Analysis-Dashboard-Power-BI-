@@ -20,24 +20,24 @@ This project analyzes call center performance data to track total number of call
 - Drill-down Call Details Page for individual-level insights
 
 ## 🔹 Tools Used
--Power BI – Data Visualization & DAX
--Excel– Data Source
--Data Cleaning & Transformation
+- Power BI – Data Visualization & DAX
+- Excel– Data Source
+- Data Cleaning & Transformation
 
 ## 🔹 Insights Generated
--Out of 5000 total calls, 4054 were answered (81%), and from those, 3646 were resolved (90%)
--Resolution rate was strong (90%) across most agents
--Average Answered Speed: 1 min 08 sec
+- Out of 5000 total calls, 4054 were answered (81%), and from those, 3646 were resolved (90%)
+- Resolution rate was strong (90%) across most agents
+- Average Answered Speed: 1 min 08 sec
 - Average Talk Duration: 3 min 45 sec
--81% of calls answered, but customer satisfaction (CSAT) remained at 50% despite high resolution rates.
--Streaming-related topic had the highest number of calls (847 calls)
--Agent Martha had the highest satisfaction score (3.5/5)
+- 81% of calls answered, but customer satisfaction (CSAT) remained at 50% despite high resolution rates.
+- Streaming-related topic had the highest number of calls (847 calls)
+- Agent Martha had the highest satisfaction score (3.5/5)
 
 ## 🔹 How to Use
--Clone/download this repository
--Open the .pbix file in Power BI Desktop
--Connect to the dataset (Excel)
--Explore the interactive dashboards with drillthroughs and slicers
+- Clone/download this repository
+- Open the .pbix file in Power BI Desktop
+- Connect to the dataset (Excel)
+- Explore the interactive dashboards with drillthroughs and slicers
 
 ## 🔹 Screenshots 
 <img width="707" height="395" alt="Screenshot 1" src="https://github.com/user-attachments/assets/fa1bc7eb-a3be-4849-a81b-d6b5775f01d7" />
